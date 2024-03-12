@@ -1,8 +1,8 @@
-guess = input()
-password = 'qwerty'
-while guess != password:
-    print('введён неверный пароль')
-    guess = input()
+# guess = input()
+# password = 'qwerty'
+# while guess != password:
+#     print('введён неверный пароль')
+#     guess = input()
 
 a = [1, 2, 3] * 5
 print(a)
@@ -22,3 +22,22 @@ while len(text) > 0:
     else:
         print(letter, 'znak')
     text = text[1:]
+
+number = -463787
+number = abs(number)
+while number > 0:
+    r = number % 10
+    print(r)
+    number = number // 10
+
+# Если этот код переложить на двойки, то этот алгоритм будет переводить числа в двоичную систему исчисления,
+# только числа будут в обратном порядке
+print('В двоичной системе исчисления: ')
+source = 14
+result = ''
+while source > 0:
+    last = source % 2
+    result = result + str(last)
+    source = source // 2
+result = result[::-1]
+print(result)
