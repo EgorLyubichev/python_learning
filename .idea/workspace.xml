@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00339799-0ce2-44b6-be0b-0a90c07740b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonLearning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fstring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="00339799-0ce2-44b6-be0b-0a90c07740b0" name="Changes" comment="List, fstring were added">
+      <change afterPath="$PROJECT_DIR$/ifelse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,11 +36,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.fstring.executor": "Run",
+    "Python.ifelse.executor": "Run",
     "Python.list.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.while.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
@@ -90,7 +87,31 @@
       <option name="presentableId" value="Default" />
       <updated>1709984056438</updated>
     </task>
+    <task id="LOCAL-00001" summary="List, fstring were added">
+      <option name="closed" value="true" />
+      <created>1710074983741</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710074983741</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="List, fstring were added" />
+    <option name="LAST_COMMIT_MESSAGE" value="List, fstring were added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
